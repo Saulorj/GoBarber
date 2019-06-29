@@ -2,9 +2,13 @@
   "name": "gobarber",
   "version": "1.0.0",
   "description": "Aula de teste BootCamp - RocketSeat",
-  "main": "index.js",
+  "main": "app.js",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "sucrase": "^3.10.1"
   }
 }
